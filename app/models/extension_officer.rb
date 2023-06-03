@@ -1,0 +1,2 @@
+class ExtensionOfficer < ApplicationRecord
+end

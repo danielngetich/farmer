@@ -1,0 +1,2 @@
+class ExtensionOfficersController < ApplicationController
+end
