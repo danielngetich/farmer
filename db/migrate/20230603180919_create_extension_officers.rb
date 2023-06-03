@@ -5,7 +5,7 @@ class CreateExtensionOfficers < ActiveRecord::Migration[7.0]
       t.string :email
       t.integer :telephone
       t.string :county
-      t.string :sub-county
+      t.string :sub_county
 
       t.timestamps
     end
